@@ -1,0 +1,99 @@
+/* header */
+
+.container-header {
+  width: 49%;
+}
+
+.titulo {
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+
+.text-header {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+
+/* main */
+
+.titulo-cotizaciones {
+  font-size: 2.4rem;
+  line-height: 2.6rem;
+}
+
+.texto {
+  font-size: 2rem;
+  line-height: 2.4rem;
+}
+
+.container-tabla{
+    max-width: 30rem;
+}
+
+.moneda-cotizaciones, .moneda-tabla{
+    align-self: self-start;
+}
+.caja-contenedora {
+  width: 45%;
+  max-width: 40rem;
+  padding: 0 auto;
+}
+
+.container-caracteristicas {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  flex-wrap: wrap;
+  background-color: #201e1c;
+}
+
+.titulo-caracteristicas{
+    font-size: 4rem;
+    line-height: 4.2rem;
+}
+
+.descripcion-caracteristicas{
+    font-size: 2rem;
+    line-height: 2.4rem;
+
+}
+
+.container-conocenos {
+  
+  background-image: url("../img/bitcoinbaby\ 2.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.container-conocenos h2 {
+  position: static;
+  font-size: 4rem;
+  line-height: 4.2rem;
+}
+
+.titulo-planes{
+    font-size: 4rem;
+    line-height: 4.2rem;
+}
+
+.descripcion-planes{
+    font-size: 2rem;
+    line-height: 2.4rem;
+}
+
+.titulo-preguntas{
+    font-size: 4rem;
+    line-height: 4.2rem
+}
+
+.preguntas{
+    font-size: 2rem;
+    line-height: 2.4rem;
+}
+
+/* footer */
+
+.links{
+    font-size: 2rem;
+    line-height: 2.4rem;
+}
